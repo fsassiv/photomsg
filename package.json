@@ -1,0 +1,21 @@
+{
+  "name": "photomsg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/",
+  "scripts": {
+    "start": "node server/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flavio Andrade <flavio.wtf@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "toastr": "^2.1.4"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0"
+  }
+}
